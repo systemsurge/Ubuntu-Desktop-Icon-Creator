@@ -19,5 +19,5 @@ sudo apt-get install python3-tk
 2. Mark the file as executable and launch it from your terminal:
 
 ```bash
-chmod +x "Linux Program Icon Creator.py"
-./"Linux Program Icon Creator.py"
+chmod +x Ubuntu.Program.Icon.Creator.py
+./Ubuntu.Program.Icon.Creator.py
