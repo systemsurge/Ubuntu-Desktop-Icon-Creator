@@ -1,2 +1,2 @@
 # Ubuntu-Desktop-Icon-Creator
-Finds your user app list, displays it, then you select the one you want, hit the button and it creates an icon on your desktop.  Tested on Ubuntu.  
+The Application lists your user installed apps, you simply select the one you want, Click "Create ICON", and it places the ICON right to your desktop. Enjoy Peeps :) 
